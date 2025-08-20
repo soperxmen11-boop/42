@@ -1,3 +1,4 @@
+const CACHE_NAME='colorinka-v9';
 
 /* Colorinka UPGRADE: PWA service worker (pro) */
 const CACHE = 'Colorinka-v2';
