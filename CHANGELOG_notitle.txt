@@ -1,0 +1,1 @@
+Removed app title from manifest (name/short_name empty), cleared <title>, and CSS hide for first child element.
