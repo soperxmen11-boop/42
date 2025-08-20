@@ -1,0 +1,1 @@
+Replaced icons with clean, no-text, no-black-bg. Added adaptive layers under assets/icons/adaptive.
